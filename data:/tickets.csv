@@ -1,0 +1,11 @@
+ticket_id,issue_type,priority,assigned_to,created_date,closed_date,status
+"1","Password Reset","Low","Alice","2025-08-01","2025-08-01","Closed"
+"2","Network Issue","High","Bob","2025-08-01","2025-08-03","Closed"
+"3","Software Install","Medium","Charlie","2025-08-02",,"Open"
+"4","Hardware Failure","High","Alice","2025-08-02","2025-08-05","Closed"
+"5","Email Issue","Low","Bob","2025-08-03","2025-08-04","Closed"
+"6","VPN Access","Medium","Charlie","2025-08-04",,"Open"
+"7","Password Reset","Low","Alice","2025-08-04","2025-08-04","Closed"
+"8","Software Bug","High","Bob","2025-08-05","2025-08-07","Closed"
+"9","Network Issue","Medium","Charlie","2025-08-06",,"Open"
+"10","Hardware Failure","High","Alice","2025-08-06",,"Open"
