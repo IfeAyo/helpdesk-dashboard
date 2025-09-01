@@ -1,2 +1,4 @@
 export PATH="/Applications/Postgres.app/Contents/Versions/17/bin:$PATH"
 
+#This file puts PostrgreSQL in the terminal's path so that it can be recognized and used to create queries in the terminal
+
