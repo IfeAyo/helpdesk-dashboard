@@ -66,11 +66,11 @@ The tickets table has:
 
 ## Example Dashboard
 
-    ###Assined_Dashboard
-    screenshots:/assigned_screenshot.png
+A screenshot showing the total tickets assigned to each employee
+    !(/Users/peace/helpdesk-dashboard/screenshots:/AssignedTo.png)
 
-    ###SumOf_Dashboard
-    screenshots:/sumof_screenshot.png 
+A screenshot showing the sum of tickets by Issues, Priority and Status
+    !(/Users/peace/helpdesk-dashboard/screenshots:/IssuePriorityStatus.png)  
 
 ## Why This Project Matters
 
