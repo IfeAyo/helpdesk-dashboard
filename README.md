@@ -22,8 +22,8 @@ A simple IT project that demonstrates how to:
             │   └── tickets.sql          > SQL script to create and seed the tickets table
             ├── sample_queries.sql       > Example SQL queries for analysis
             └── screenshots:             > Example Power BI dashboard screenshot
-                ├── assigned_screenshot.png
-                └── sumof_screenshot.png    
+                ├── AssignedTo.png
+                └── IssuePriorityStatus.png   
 
 ## DataSets
 
