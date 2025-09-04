@@ -67,10 +67,11 @@ The tickets table has:
 ## Example Dashboard
 
 A screenshot showing the total tickets assigned to each employee
-    [!AssignedTo](https://github.com/IfeAyo/helpdesk-dashboard/blob/346f94c9440eb73eb33d09d5269cb76d67086186/screenshots%3A/AssignedTo.png)
+
+[!AssignedTo](https://github.com/IfeAyo/helpdesk-dashboard/blob/346f94c9440eb73eb33d09d5269cb76d67086186/screenshots%3A/AssignedTo.png)
 
 A screenshot showing the sum of tickets by Issues, Priority and Status
-    !(/Users/peace/helpdesk-dashboard/screenshots:/IssuePriorityStatus.png)  
+screenshots:/IssuePriorityStatus.png  
 
 ## Why This Project Matters
 
