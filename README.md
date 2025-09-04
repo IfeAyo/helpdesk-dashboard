@@ -67,10 +67,10 @@ The tickets table has:
 ## Example Dashboard
 
     ###Assined_Dashboard
-    ![Dashboard Overview](screenshots:/assigned_screenshot.png)
+    screenshots:/assigned_screenshot.png
 
     ###SumOf_Dashboard
-    ![Sum Of](screenshots:/sumof_screenshot.png) 
+    screenshots:/sumof_screenshot.png 
 
 ## Why This Project Matters
 
