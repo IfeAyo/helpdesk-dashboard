@@ -14,17 +14,16 @@ A simple IT project that demonstrates how to:
 
 ## Project Structure
 
-    ``` graphql
-        helpdesk-dashboard/
-            ├── data/
-            |   ├── .zshrc.save           > The file that puts PostgreSQL in the terminal's path
-            |   └──  tickets.csv          > Exported dataset (for Power BI Service)
-            │  └── tickets.sql            > SQL script to create and seed the tickets table
-            ├── sample-queries.sql        > Example SQL queries for analysis
-            ├── screenshots:/
-            │   └── Screen Shot.png         > Example Power BI dashboard screenshot
-            ├── README.md                 > Project documentation (this file)
-
+    ``` tree
+        .
+        ├── README.md                > Project documentation (this file)
+        ├── data:
+        │   ├── tickets.csv          > Exported dataset (for Power BI Service)
+        │   └── tickets.sql          > SQL script to create and seed the tickets table
+        ├── sample_queries.sql       > Example SQL queries for analysis
+        └── screenshots:             > Example Power BI dashboard screenshot
+            ├── assigned_screenshot.png
+            └── sumof_screenshot.png    
 
 ## DataSets
 
@@ -37,13 +36,14 @@ A simple IT project that demonstrates how to:
         - status -> Open or Closed
 
 ## Dashboard Features
+
     - KPIs (cards): total tickets, closed tickets, avg resolution time
     - Bar chart: tickets by issue type
     - Pie chart: tickets by priority
     - Line chart: open vs closed tickets over time
     - Table: current open tickets with details
 
-## 🚀 How to Run
+## How to Run
 
     1. Set up PostgreSQL
         - Create a database called helpdesk
@@ -64,11 +64,15 @@ A simple IT project that demonstrates how to:
 
     4. Save screenshot of the dashboard → put it in screenshot folder: helpdesk-dashboard/screentshots: 
 
-## 📸 Example Dashboard
+## Example Dashboard
 
-    (Insert your screenshot here once ready)
+    ###Assined_Dashboard
+    ![Dashboard Overview](screenshots:/assigned_screenshot.png)
 
-## 🎯 Why This Project Matters
+    ###SumOf_Dashboard
+    ![Sum Of](screenshots:/sumof_screenshot.png) 
+
+## Why This Project Matters
 
     This project shows that I can:
 
@@ -82,3 +86,13 @@ A simple IT project that demonstrates how to:
 
 It’s a practical example of bridging IT operations + analytics, a skill set useful in Help Desk, SysAdmin, and Security Analyst roles.
          
+
+          helpdesk-dashboard/
+            ├── data/
+            |   ├── .zshrc.save           > The file that puts PostgreSQL in the terminal's path
+            |   └──  tickets.csv          > Exported dataset (for Power BI Service)
+            │  └── tickets.sql            > SQL script to create and seed the tickets table
+            ├── sample-queries.sql        > Example SQL queries for analysis
+            ├── screenshots:/
+            │   └── Screen Shot.png         > Example Power BI dashboard screenshot
+            ├── README.md                 > Project documentation (this file)
