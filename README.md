@@ -28,12 +28,12 @@ A simple IT project that demonstrates how to:
 ## DataSets
 
 The tickets table has:
-        - ticket_id -> auto-increment ID
-        - issue_type -> e.g, Password Reset, Network Issue
-        - priority -> Low/Medium/High
-        - assigned_to -> technician's name
-        - created date -> when ticket is resolved (NULL if still open)
-        - status -> Open or Closed
+- ticket_id -> auto-increment ID
+- issue_type -> e.g, Password Reset, Network Issue
+- priority -> Low/Medium/High
+- assigned_to -> technician's name
+- created date -> when ticket is resolved (NULL if still open)
+- status -> Open or Closed
 
 ## Dashboard Features
 
@@ -67,7 +67,7 @@ The tickets table has:
 ## Example Dashboard
 
 A screenshot showing the total tickets assigned to each employee
-    !(/Users/peace/helpdesk-dashboard/screenshots:/AssignedTo.png)
+    [!AssignedTo](https://github.com/IfeAyo/helpdesk-dashboard/blob/346f94c9440eb73eb33d09d5269cb76d67086186/screenshots%3A/AssignedTo.png)
 
 A screenshot showing the sum of tickets by Issues, Priority and Status
     !(/Users/peace/helpdesk-dashboard/screenshots:/IssuePriorityStatus.png)  
