@@ -70,8 +70,9 @@ A screenshot showing the total tickets assigned to each employee
 
 [!AssignedTo](https://github.com/IfeAyo/helpdesk-dashboard/blob/346f94c9440eb73eb33d09d5269cb76d67086186/screenshots%3A/AssignedTo.png)
 
-A screenshot showing the sum of tickets by Issues, Priority and Status
-screenshots:/IssuePriorityStatus.png  
+A screenshot showing the sum of tickets by Issues, Priority, and Status
+
+[!IssuePriorityStaus](https://github.com/IfeAyo/helpdesk-dashboard/blob/f9c5cd59814d906c8cf2f308870e31171b5e468b/screenshots%3A/IssuePriorityStatus.png) 
 
 ## Why This Project Matters
 
